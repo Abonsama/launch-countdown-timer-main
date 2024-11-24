@@ -29,14 +29,14 @@
         width: 100%;
         height: auto;
         justify-content: center;
-        gap: 4%;
+        gap: 3%;
     }
     
     .component > div {
         color: var(--Grayish-blue);
         text-transform: uppercase;
         letter-spacing: 5px;
-        font-size: 12px;
+        font-size: 9px;
         font-weight: bold;
         text-align: center;
     }

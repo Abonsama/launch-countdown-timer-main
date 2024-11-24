@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Abonsama/launch-countdown-timer-main)
-- Live Site URL: [Add live site URL here](https://abonsama.github.io/launch-countdown-timer-main/)
+- Solution URL: [URL](https://github.com/Abonsama/launch-countdown-timer-main)
+- Live Site URL: [live site](https://abonsama.github.io/launch-countdown-timer-main/)
 
 ### Built with
 
